@@ -1,0 +1,358 @@
+{
+    "keys": [
+        "nyx-professional-makeup/fat-oil-lip-drip-olejek-do-ust/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "NYX Fat Oil",
+    "rpc": "NYX06920",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "NYX Fat Oil",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV.jpg",
+                                "element": "img",
+                                "alt": "Viralowe błyszczyki do ust fat oil",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV-mobile.jpg",
+                                "element": "img",
+                                "alt": "Viralowe błyszczyki do ust fat oil",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Fat Oil Lip drip. olejek do ust - za co go kochacie?",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "500",
+                                    "marginBottom": "40px",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Pozostawia usta soczyssste i pełne blasku. Formuła wzbogacona olejkiem z maliny moroszki i olejkiem z pestek malin. Dostępny aż w 8 odcieniach! Zapewnia ochronę i nawilżenie aż do 12 godzin. Duży aplikator, dzięki czemu aplikacja produktu jest niezwykle prosta i przyjemna. Nieklejący się błysk z pigmentem.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "lineHeight": "2",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-02.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Fat Oil Slick Click. balsam w sztyfcie - co go wyróżnia?",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "500",
+                                    "marginBottom": "40px",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Wystarczy jedno kliknięcie, aby uzyskać gładkie i nawilżone usta. Formuła wzbogacona olejkiem z awokado, olejkiem z maliny moroszki oraz olejkiem z pestek malin. Dostępny aż w 12 odcieniach! Zapewnia ochronę i nawilżenie aż do 12 godzin. Kompaktowy, wygodny format, który może towarzyszyć Ci wszędzie!",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "lineHeight": "2",
+                                    "marginLeftt": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-04.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-05.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-05-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-06.jpg",
+                                "element": "img",
+                                "alt": "Ideany duet dla mega ochrony i nawilżenia",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-06-mobile.jpg",
+                                "element": "img",
+                                "alt": "Ideany duet dla mega ochrony i nawilżenia",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-07-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-07-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-07-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "25px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
