@@ -77,7 +77,7 @@
                             },
                             {
                                 "name": "content",
-                                "value": "Pozostawia usta soczyssste i pełne blasku. Formuła wzbogacona olejkiem z maliny moroszki i olejkiem z pestek malin. Dostępny aż w 8 odcieniach! Zapewnia ochronę i nawilżenie aż do 12 godzin. Duży aplikator, dzięki czemu aplikacja produktu jest niezwykle prosta i przyjemna. Nieklejący się błysk z pigmentem.",
+                                "value": "Pozostawia usta soczyssste i\u00a0pełne blasku. Formuła wzbogacona olejkiem z\u00a0maliny moroszki i\u00a0olejkiem z\u00a0pestek malin. Dostępny aż\u00a0w\u00a08\u00a0odcieniach! Zapewnia ochronę i\u00a0nawilżenie aż\u00a0do\u00a012\u00a0godzin. Duży aplikator, dzięki czemu aplikacja produktu jest niezwykle prosta i\u00a0przyjemna. Nieklejący się błysk z\u00a0pigmentem.",
                                 "element": "p",
                                 "properties": {
                                     "fontSize": "16px",
@@ -153,7 +153,7 @@
                         "data": [
                             {
                                 "name": "header",
-                                "value": "Fat Oil Slick Click. balsam w sztyfcie - co go wyróżnia?",
+                                "value": "Fat Oil Slick Click. balsam w\u00a0sztyfcie - co go wyróżnia?",
                                 "element": "h2",
                                 "properties": {
                                     "fontSize": "30px",
@@ -167,7 +167,7 @@
                             },
                             {
                                 "name": "content",
-                                "value": "Wystarczy jedno kliknięcie, aby uzyskać gładkie i nawilżone usta. Formuła wzbogacona olejkiem z awokado, olejkiem z maliny moroszki oraz olejkiem z pestek malin. Dostępny aż w 12 odcieniach! Zapewnia ochronę i nawilżenie aż do 12 godzin. Kompaktowy, wygodny format, który może towarzyszyć Ci wszędzie!",
+                                "value": "Wystarczy jedno kliknięcie, aby uzyskać gładkie i nawilżone usta. Formuła wzbogacona olejkiem z awokado, olejkiem z maliny moroszki oraz olejkiem z pestek malin. Dostępny aż\u00a0w\u00a012\u00a0odcieniach! Zapewnia ochronę i\u00a0nawilżenie aż\u00a0do\u00a012\u00a0godzin. Kompaktowy, wygodny format, który może towarzyszyć Ci wszędzie!",
                                 "element": "p",
                                 "properties": {
                                     "fontSize": "16px",
